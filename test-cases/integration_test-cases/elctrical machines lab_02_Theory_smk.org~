@@ -1,0 +1,27 @@
+* Author: chetan
+* Date Created: 04 feb 2016
+* Environment
+  - OS: Windows 7,Ubuntu-16.04,CentOS-6
+  - Browsers: Firefox-42.0,Chrome-47.0,Chromium-45.0
+  - Bandwidth : 100Mbps
+  - Hardware Configuration:4GB RAM , 
+  - Processor:i3,
+
+* Objective
+  - View the Theory of the Speed Control of DC Motor by varrying armature and field resistance experiment
+
+* Pre conditions
+  
+  - Refer to first test case [[https://github.com/Virtual-Labs/Electrical-Machines-Lab-iitr/blob/master/test-cases/integration_test-cases/Speed Control of DC Motor by varrying armature and field resistance/elctrical machines lab_01_usability_smk.org][elctrical machines lab_01_usability_smk.org]]
+* Post conditions
+   - Nil
+* Test Steps
+  - While testing observe for easiness to use the features of the experiment
+  1. Information to use the experiment
+  2. Navigation
+  3. Look and Feel
+
+* Expected result
+  1. Experiment should be user friendly
+
+* Review comments
